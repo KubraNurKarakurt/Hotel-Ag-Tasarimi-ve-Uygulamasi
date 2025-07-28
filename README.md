@@ -8,9 +8,9 @@ Bu proje, üç katlı Hotel için güvenli, ölçeklenebilir ve verimli bir ağ 
 
 ## Otel Kat Planı ve Departman Dağılımı
 
-- 1. Kat: Resepsiyon (Reception), Depo (Store), Lojistik (Logistics)
-- 2. Kat: Finans (Finance), İnsan Kaynakları (HR), Satış/Pazarlama (Sales)
-- 3. Kat: Bilgi Teknolojileri (IT), Yönetim (Admin)
+-  1. Kat: Resepsiyon (Reception), Depo (Store), Lojistik (Logistics)
+-  2. Kat: Finans (Finance), İnsan Kaynakları (HR), Satış/Pazarlama (Sales)
+-  3. Kat: Bilgi Teknolojileri (IT), Yönetim (Admin)
 
 ## Ağ Tasarım Özellikleri
 

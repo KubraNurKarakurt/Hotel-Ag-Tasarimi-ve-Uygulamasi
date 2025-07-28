@@ -2,7 +2,7 @@
 
 ## Proje Hakkında
 
-![Ağ Topolojisi](topoloji2.png)
+![Ağ Topolojisi](topology2.png)
 
 Bu proje, üç katlı Hotel için güvenli, ölçeklenebilir ve verimli bir ağ altyapısının tasarımı ve uygulanmasını içermektedir. Her kat farklı departmanları barındırmakta olup, VLAN segmentasyonu, dinamik yönlendirme ve güvenli uzaktan erişim gibi ileri düzey ağ uygulamaları kullanılmıştır.
 
